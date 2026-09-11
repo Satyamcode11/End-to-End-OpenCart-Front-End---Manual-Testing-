@@ -1,4 +1,4 @@
-# End-to-End OpenCart E-Commerce Website – Manual Testing Project
+# E-Commerce Website End to End – Manual Testing Project
 
 # Project Overview
 
